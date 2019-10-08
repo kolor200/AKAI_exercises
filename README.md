@@ -1,2 +1,2 @@
 # AKAI_exercises
-Zadania rekrutacyjne, AKAI
+Zadania rekrutacyjne dla pakietu python
