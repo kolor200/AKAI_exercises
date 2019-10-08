@@ -1,0 +1,38 @@
+[
+    {
+        "base_currency": "USD",
+        "date_fetched": "2019-10-08",
+        "ratio": 0.89795,
+        "target_currency": "GBP"
+    },
+    {
+        "base_currency": "USD",
+        "date_fetched": "2019-10-08",
+        "ratio": 4.3326,
+        "target_currency": "PLN"
+    },
+    {
+        "base_currency": "USD",
+        "date_fetched": "2019-10-08",
+        "ratio": 0.89795,
+        "target_currency": "GBP"
+    },
+    {
+        "base_currency": "CAD",
+        "date_fetched": "2019-10-08",
+        "ratio": 1.0986,
+        "target_currency": "USD"
+    },
+    {
+        "base_currency": "CAD",
+        "date_fetched": "2019-10-08",
+        "ratio": 0.89795,
+        "target_currency": "GBP"
+    },
+    {
+        "base_currency": "USD",
+        "date_fetched": "2019-10-08",
+        "ratio": 1.4623,
+        "target_currency": "CAD"
+    }
+]
